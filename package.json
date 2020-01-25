@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/wayne-sie/deltahacks-step#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "radar-sdk-js": "^1.1.0"
   }
 }
