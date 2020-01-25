@@ -1,0 +1,22 @@
+{
+  "name": "step",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayne-sie/deltahacks-step.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayne-sie/deltahacks-step/issues"
+  },
+  "homepage": "https://github.com/wayne-sie/deltahacks-step#readme",
+  "dependencies": {
+    "radar-sdk-js": "^1.1.0"
+  }
+}
