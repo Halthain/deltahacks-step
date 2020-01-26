@@ -1,0 +1,176 @@
+#body {
+  margin: 0;
+}
+/*Frame*/
+#n25_2 {
+  position: relative;
+  width: 360px;
+  height: 630px;
+}
+/*Background*/
+#background {
+  z-index: -10;
+  overflow: hidden;
+  position: absolute;
+}
+/*Input Boxes*/
+input[type="text"] {
+  width: 275px;
+  height: 53px;
+  left: 42px;
+  top: 304px;
+  margin-left: 20px;
+
+  background: #fbfaf8;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+}
+/*Title*/
+#n25_3 {
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 100px;
+  line-height: 128px;
+  text-align: center;
+  color: #000000;
+  z-index: 10;
+}
+/*Subheader*/
+#n25_4 {
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 32px;
+  text-align: center;
+}
+/*Username box*/
+#n25_5 {
+  margin-left: 35px;
+  padding-left: 10px;
+}
+
+/*Username*/
+#n25_6 {
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 51px;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-left: 15px;
+}
+
+/*Password Box*/
+#n25_7 {
+  margin-left: 35px;
+  padding-left: 10px;
+}
+
+/*Password*/
+#n25_8 {
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 51px;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-left: 15px;
+}
+
+/*Sign In*/
+#n25_15 {
+  width: 200px;
+  height: 53px;
+  left: 43px;
+  top: 545px;
+  text-align: center;
+  vertical-align: auto;
+  margin-left: 10px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#n25_16 {
+  text-align: center;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 26px;
+
+  width: 275px;
+  height: 53px;
+  left: 42px;
+  top: 304px;
+  margin-left: 20px;
+  margin-top: 20px;
+
+  background: #dde1e1;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+}
+
+/*Sign-in Button*/
+#n25_16 {
+  position: absolute;
+  width: 200px;
+  height: 53px;
+  left: 43px;
+  top: 545px;
+  text-align: center;
+
+  background: #dde1e1;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+  margin-top: -90px;
+}
+
+/*Don't have an account*/
+#n25_18 {
+  position: absolute;
+  width: 240px;
+  height: 19px;
+  left: 56px;
+  top: 565px;
+  text-align: center;
+  margin-top: -30px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 15px;
+  line-height: 19px;
+
+  color: #555050;
+}
+
+/*Forgot Password*/
+#n25_33 {
+  position: absolute;
+  width: 240px;
+  height: 19px;
+  left: 56px;
+  top: 565px;
+  text-align: center;
+  margin-top: 10px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 15px;
+  line-height: 19px;
+
+  color: #555050;
+}

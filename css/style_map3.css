@@ -1,0 +1,97 @@
+#n1_536 {}
+
+
+#n1_541 {
+    /* Rectangle 4 */
+    position: absolute;
+    width: 360px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+
+    background: #DDE1E1;
+    border: 1px solid #000000;
+}
+
+#n1_544 {
+    /* Residence at McMaster University */
+    position: absolute;
+    width: 305px;
+    height: 300px;
+    left: 28px;
+    top: 89px;
+
+
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #343F39;
+}
+
+#n1_543 {
+    /* Hedden Hall */
+    position: absolute;
+    width: 258px;
+    height: 24px;
+    left: 105px;
+    top: 25px;
+
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+}
+
+#n1_546 {
+    /* image 2 */
+    background: url("https://s3-alpha-sig.figma.com/img/9ca7/780e/88385621389910f0ff2c449cad505a3a?Expires=1580688000&Signature=b1Ja6K5JoYWmXcwF1mA~LkM98U7ApR9qtQwRttf9hveS5EN3FkU0LaK5x924XG-UZUtNfm-5Sjaic6zEbKavcUny0rIKuFYRfkrKwKBcX~sF4WY9HIJdYfwm76tCybSQW-fcoSqruNbsbPFr7ERRHb0Km~F1NOqD8nHdK6mlMZ414mAOQ~8uWvlybLrbqij52OwTt1dp-VQwrLL5U4ZDR1gZClZaKbx61RuaNkSzm7dIDO-9T8nHVHSB5RnIoaVuIlEUVz7e5I2M5vO3QpfJ4mDAa0m~30Rxyfrqs-OJ7DLmj7ZwdpeSKaN-fx3BnvdjmHvZj-xjUVLTscTG8Wx8Wg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: absolute;
+    left: 0px;
+    width: 360px;
+    top: 338px;
+    height: 249px;
+    border: 1px solid #000000;
+}
+
+#n1_547 {
+    /* Rectangle 5 */
+    position: absolute;
+    width: 360px;
+    height: 53px;
+    left: 0px;
+    top: 587px;
+
+    background: #DDE1E1;
+    border: 1px solid #000000;
+}
+
+#n48_17 {
+    /* Icon_menu */
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 12px;
+    top: 30px;
+}
+
+#description {
+    position: absolute;
+    background: #F6F6ED;
+    width: 362px;
+    height: 253px;
+    left: -2px;
+    top:75px;
+    bottom:253px;
+    padding-top: 100px;
+    border: 1px solid #000000;
+}

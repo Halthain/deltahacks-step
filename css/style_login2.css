@@ -1,0 +1,151 @@
+/*Body*/
+#body {
+  margin: 0;
+}
+
+/*Frame*/
+#n25_19 {
+  position: relative;
+  width: 360px;
+  height: 630px;
+}
+
+/*Background*/
+#background {
+  z-index: -10;
+  overflow: hidden;
+  position: absolute;
+}
+
+/*Header*/
+#n25_22 {
+  position: absolute;
+  width: 232px;
+  height: 128px;
+  left: 65px;
+  top: 25px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 100px;
+  line-height: 128px;
+
+  color: #000000;
+}
+
+/*Username*/
+#n25_25 {
+  position: absolute;
+  width: 185px;
+  height: 51px;
+  left: 43px;
+  top: 202px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 51px;
+
+  color: #000000;
+}
+
+/*Username Box*/
+#n25_26 {
+  position: absolute;
+  width: 275px;
+  height: 53px;
+  left: 43px;
+  top: 253px;
+  padding-left: 10px;
+
+  background: #fbfaf8;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+}
+
+/*Password*/
+#n25_29 {
+  position: absolute;
+  width: 177px;
+  height: 51px;
+  left: 42px;
+  top: 306px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 51px;
+
+  color: #000000;
+}
+
+/* Password Box  */
+#n25_30 {
+  position: absolute;
+  width: 275px;
+  height: 53px;
+  left: 42px;
+  top: 357px;
+  padding-left: 10px;
+
+  background: #fbfaf8;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+}
+
+/* Email */
+#n25_32 {
+  position: absolute;
+  width: 100px;
+  height: 51px;
+  left: 42px;
+  top: 410px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 51px;
+
+  color: #000000;
+}
+
+/* Email Text Box */
+#n25_31 {
+  position: absolute;
+  width: 275px;
+  height: 53px;
+  left: 42px;
+  top: 461px;
+  padding-left: 10px;
+
+  background: #fbfaf8;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+}
+
+/* Sign up Button */
+#n25_28 {
+  position: absolute;
+  width: 275px;
+  height: 53px;
+  left: 43px;
+  top: 545px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 26px;
+
+  background: #dde1e1;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+}

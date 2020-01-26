@@ -1,0 +1,128 @@
+/* Step. */
+/*Frame*/
+#n25_34 {
+  position: relative;
+  width: 360px;
+  height: 630px;
+}
+
+#n25_37 {
+  position: absolute;
+  width: 232px;
+  height: 128px;
+  left: 65px;
+  top: 25px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 100px;
+  line-height: 128px;
+
+  color: #000000;
+}
+
+/* Email */
+#n25_45 {
+  position: absolute;
+  width: 100px;
+  height: 51px;
+  left: 43px;
+  top: 190px;
+  margin-left: 10px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 51px;
+
+  color: #000000;
+}
+
+#n25_35 {
+  z-index: -10;
+  overflow: hidden;
+  position: absolute;
+}
+
+#n25_46 {
+  /* Send */
+  position: absolute;
+  width: 46px;
+  height: 26px;
+  left: 158px;
+  top: 344px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 26px;
+  /* identical to box height */
+  color: #000000;
+}
+
+#n25_41 {
+  /* Rectangle 4 */
+  position: absolute;
+  width: 275px;
+  height: 53px;
+  left: 43px;
+  top: 246px;
+  background: #fbfaf8;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+}
+
+#n25_44 {
+  /* Rectangle 3 */
+  position: absolute;
+  width: 200px;
+  height: 53px;
+  left: 43px;
+  top: 330px;
+  background: #dde1e1;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+  cursor: pointer;
+  margin-left: 37px;
+}
+
+#n25_47 {
+  /* We’ll send you a confirmation code. */
+  position: absolute;
+  width: 327px;
+  height: 26px;
+  left: 16px;
+  top: 428px;
+  text-align: center;
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 26px;
+  margin-left: 0px;
+  /* identical to box height */
+  color: #000000;
+}
+
+#n25_5 {
+  position: absolute;
+  width: 275px;
+  height: 53px;
+  left: 43px;
+  top: 246px;
+  padding-left: 10px;
+
+  background: #fbfaf8;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+}
+
+#n25_6 {
+  margin-left: 10px;
+}

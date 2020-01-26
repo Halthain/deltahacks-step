@@ -1,0 +1,172 @@
+/*Frame*/
+#n1_5 {
+  position: relative;
+  width: 360px;
+  height: 630px;
+  background-color: #dde1e1;
+  z-index: -100;
+}
+/*Map*/
+#map {
+  overflow: hidden;
+  width: 100%;
+  z-index: -133;
+  margin-top: -50px;
+}
+/*Button 1 Header*/
+#n1_23 {
+  position: absolute;
+  width: 258px;
+  height: 24px;
+  left: 48px;
+  top: 347px;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #1a1718;
+}
+
+/*Button 1 Subheader*/
+#n1_24 {
+  position: absolute;
+  width: 219px;
+  height: 18px;
+  left: 48px;
+  top: 379px;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #343f39;
+}
+
+/*Button 1 Rectangle*/
+#n1_18 {
+  position: absolute;
+  width: 322px;
+  height: 85px;
+  left: 19px;
+  top: 336px;
+
+  background: #f6f6ed;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+  z-index: -1;
+  cursor: pointer;
+}
+
+/*Button 2 Header*/
+#n1_19 {
+  position: absolute;
+  width: 258px;
+  height: 22px;
+  left: 48px;
+  top: 444px;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #1a1718;
+}
+
+/*Button 2 Subheader*/
+#n1_20 {
+  position: absolute;
+  width: 117px;
+  height: 18px;
+  left: 48px;
+  top: 476px;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #343f39;
+}
+
+/*Button 2 Rectangle*/
+#n1_16 {
+  position: absolute;
+  width: 322px;
+  height: 85px;
+  left: 19px;
+  top: 433px;
+
+  background: #f6f6ed;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+  z-index: -1;
+}
+
+/*Button 3 Header*/
+#n1_14 {
+  position: absolute;
+  width: 258px;
+  height: 22px;
+  left: 48px;
+  top: 541px;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #1a1718;
+}
+
+/*Button 3 Subheader*/
+#n1_15 {
+  position: absolute;
+  width: 198px;
+  height: 18px;
+  left: 48px;
+  top: 573px;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #343f39;
+}
+
+/*Button 3 Rectangle*/
+#n1_8 {
+  position: absolute;
+  width: 322px;
+  height: 85px;
+  left: 19px;
+  top: 530px;
+
+  background: #f6f6ed;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+  z-index: -1;
+}
+
+/*Gear*/
+#n25_59 {
+  position: absolute;
+  left: 88.06%;
+  right: 5.28%;
+  top: 2.19%;
+  bottom: 94.06%;
+  z-index: 10;
+}

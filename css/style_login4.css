@@ -1,0 +1,133 @@
+/*Frame*/
+#n25_48 {
+  position: relative;
+  width: 360px;
+  height: 630px;
+}
+/*Background*/
+#background {
+  z-index: -10;
+  overflow: hidden;
+  position: absolute;
+}
+
+/*Input Boxes*/
+input[type="text"] {
+  width: 275px;
+  height: 53px;
+  left: 42px;
+  top: 304px;
+  margin-left: 20px;
+
+  background: #fbfaf8;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+}
+
+/*Header*/
+#n25_51 {
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 100px;
+  line-height: 128px;
+  text-align: center;
+  color: #000000;
+  z-index: 10;
+}
+
+/*Code*/
+#n25_53 {
+  position: absolute;
+  width: 275px;
+  height: 53px;
+  left: 43px;
+  top: 246px;
+  padding-left: 10px;
+  margin-left: 0px;
+
+  background: #fbfaf8;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+}
+
+#n25_54 {
+  position: absolute;
+  width: 100px;
+  height: 51px;
+  left: 43px;
+  top: 190px;
+  margin-left: 10px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 51px;
+
+  color: #000000;
+}
+
+/*Continue Button*/
+#n25_55 {
+  text-align: center;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 26px;
+  margin-left: 65px;
+  position: absolute;
+  position: absolute;
+  width: 200px;
+  height: 53px;
+  left: 43px;
+  top: 330px;
+  background: #dde1e1;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 100px;
+  cursor: pointer;
+  margin-left: 37px;
+}
+
+/*Enter 4 digit code here*/
+
+#n25_56 {
+  position: absolute;
+  width: 257px;
+  height: 26px;
+  left: 52px;
+  top: 428px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 26px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+/*Didn't get an email*/
+#n25_58 {
+  width: 240px;
+  height: 19px;
+  left: 56px;
+  top: 565px;
+  text-align: center;
+  position: absolute;
+  margin-top: 10px;
+
+  font-family: Futura PT;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 15px;
+  line-height: 19px;
+
+  color: #555050;
+}

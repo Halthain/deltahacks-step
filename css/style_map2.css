@@ -1,0 +1,96 @@
+#n1_536 {}
+
+
+#n1_541 {
+    /* Rectangle 4 */
+    position: absolute;
+    width: 360px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+
+    background: #DDE1E1;
+    border: 1px solid #000000;
+}
+
+#n1_544 {
+    /* Science building of McMaster University */
+    position: absolute;
+    width: 305px;
+    height: 516px;
+    left: 24px;
+    top: 89px;
+
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #343F39;
+}
+
+#n1_543 {
+    /* Burke Science Building */
+    position: absolute;
+    width: 258px;
+    height: 24px;
+    left: 51px;
+    top: 25px;
+
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+}
+
+#n1_546 {
+    /* image 2 */
+    background: url("https://s3-alpha-sig.figma.com/img/0bd4/3523/0bb79308bd13d06a7ecea414154c4beb?Expires=1580688000&Signature=QM-IWUeFFPAyjxeT7sFykGgWEk9~UXP8y0ILj0yJp338~4AeY4C17KHMjt35mjsftP0L047Knh~2teZ-2teZXSHQ53DlQiW9fNW94eD4Qy7sHWyttOFJwXLjWAoR4KZZW8rJpNts-v-N3-FKXUDyqtwXUjYUYOTRmAKwzhgEeVkPGjd2AD~OQ8DpqswhzQ700Ot8eLQmWAL5nSAtBwlkQYcy-lwI4Ksz6kJNp8TRX6K2HV9vDHbnRyn0-plFGzX1IHSTbcI~i9VlN-xli1yvZ2XJR8CAhsgOc69Hf4aLzWe6pGowc4-ekTAUTrGPGBRQvT7OUd-Xa96U49ksP4wY7A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: absolute;
+    left: 0px;
+    width: 360px;
+    top: 338px;
+    height: 249px;
+    border: 1px solid #000000;
+}
+
+#n1_547 {
+    /* Rectangle 5 */
+    position: absolute;
+    width: 360px;
+    height: 53px;
+    left: 0px;
+    top: 587px;
+
+    background: #DDE1E1;
+    border: 1px solid #000000;
+}
+
+#n48_17 {
+    /* Icon_menu */
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 12px;
+    top: 30px;
+}
+
+#description {
+    position: absolute;
+    background: #F6F6ED;
+    width: 362px;
+    height: 253px;
+    left: -2px;
+    top:75px;
+    bottom:253px;
+    padding-top: 100px;
+    border: 1px solid #000000;
+}

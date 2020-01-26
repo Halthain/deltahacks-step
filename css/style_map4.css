@@ -1,0 +1,96 @@
+#n1_536 {}
+
+
+#n1_541 {
+    /* Rectangle 4 */
+    position: absolute;
+    width: 360px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+
+    background: #DDE1E1;
+    border: 1px solid #000000;
+}
+
+#n1_544 {
+    /* Library at McMaster University */
+    position: absolute;
+    width: 305px;
+    height: 516px;
+    left: 58px;
+    top: 89px;
+
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #343F39;
+}
+
+#n1_543 {
+    /* Thode Library */
+    position: absolute;
+    width: 258px;
+    height: 24px;
+    left: 105px;
+    top: 25px;
+
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+}
+
+#n1_546 {
+    /* image 2 */
+    background: url("https://s3-alpha-sig.figma.com/img/6573/a5cd/59f3584cfe54d55fe77b860bf93af2da?Expires=1580688000&Signature=fD1pQDwuCpqpXt~FSLE~Gw2DuxeU3vXG5FYj4ikcOnFWLqS4wCDzy8idy-i0gcWx-tTPxWcEqHjlCbgPZpDvGlJbGvwNbyai-ZADYF5AVEu3gCbUkdW8IFOcC~cC2goBBleqgr8qNgdpNMmNnIEkeUxdlcWa8-iPyQRB~t-aHXDz0a5gnmK~AFNsRp3rhPZ6Svxo7il2YRJM9q7at11VmiNk2x7yc9jLEBgrksxTRXyUD3mUhWFlO8Fc0DxTXE479jEbB7EE72-bqMPQpaBfBWIZ4C-4hVKna9kjDaOnez-2SQHYe4J6RZ8-xv2qYjJX3jnuHTuPfd0jnh8sBgV5wg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: absolute;
+    left: 0px;
+    width: 360px;
+    top: 338px;
+    height: 249px;
+    border: 1px solid #000000;
+}
+
+#n1_547 {
+    /* Rectangle 5 */
+    position: absolute;
+    width: 360px;
+    height: 53px;
+    left: 0px;
+    top: 587px;
+
+    background: #DDE1E1;
+    border: 1px solid #000000;
+}
+
+#n48_17 {
+    /* Icon_menu */
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 12px;
+    top: 30px;
+}
+
+#description {
+    position: absolute;
+    background: #F6F6ED;
+    width: 362px;
+    height: 253px;
+    left: -2px;
+    top:75px;
+    bottom:253px;
+    padding-top: 100px;
+    border: 1px solid #000000;
+}
